@@ -56,7 +56,7 @@ const Navigation = () => {
                     </ul>
 
                     <div className="signature">
-                        <p>Wayne Plachenault - 2021</p>
+                        <p>Wayne Planchenault - 2021</p>
                     </div>
                 </div>
             </div>
