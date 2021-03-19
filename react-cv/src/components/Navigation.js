@@ -39,6 +39,8 @@ const Navigation = () => {
                     </li>
                 </ul>
 
+                </div>
+
                 <div className="socialNetwork">
                     <ul>
                         <li>
@@ -60,7 +62,7 @@ const Navigation = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        
     );
 };
 

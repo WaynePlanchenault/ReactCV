@@ -76,3 +76,5 @@ npx create-react-app react-cv / télécharger react-app dans un dossier react-cv
 npm i node-sass / télécharger sass
 
 npm i react-router-dom / télécharger le router react
+
+npm i react-copy-to-clipboard / permet de copier le contenu en cliquant
